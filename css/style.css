@@ -1,0 +1,29 @@
+/* reset */
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+/* ---------------------- */
+
+/* ----header------ */
+header{
+    height: 180px;
+    background-color:#4EA0FF ;
+    background-image: url("../img/pattern.png");
+
+}
+
+#logo-container{
+    height: 80px;
+    width: 400px;
+    padding: 80px 0 0 30px;
+
+                             /* alternativa? */
+    /* position: relative;
+    bottom: Npx ;
+    left: Npx ;
+    translate:0  Npx; */
+                            /* alternativa? */
+}
+/* -------------------- */
