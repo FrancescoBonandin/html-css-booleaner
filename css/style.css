@@ -71,5 +71,43 @@ h1{
 /* --------------------------------------------------------- */
 
 /* ---------------------sezione contenuto testuale----------------------------- */
+.highlighter{
+    background-color: yellow;
+}
 
+table{
+    width: 50%;
+    overflow-x: auto;
 
+}
+
+thead{
+    background-color: aqua;
+    color: white;
+}
+
+.tr-background{
+    background-color: aquamarine;
+}
+/* ----------------------------------------------------------------------------- */
+
+/* sezione footer */
+.image-box{
+    width: 312px;
+    height: 208px;
+    margin-bottom: 20px;
+}
+
+#image-link-1{
+    background-image: url("../img/monitor.jpg");
+}
+
+#image-link-2{
+    background-image: url("../img/graph.jpg");
+}
+
+.image-text{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
